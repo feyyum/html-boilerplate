@@ -1,6 +1,6 @@
 # HTML Boilerplate
 
-Öncelikle bu repoyu sağ üstte bulunan fork butonu ile "Fork"lamalısın. Ardından kendi repository'lerine eklendiğini göreceksin.dasbhhjndas
+Öncelikle bu repoyu sağ üstte bulunan fork butonu ile "Fork"lamalısın. Ardından kendi repository'lerine eklendiğini göreceksin.
 
 Ardından kendi repository'nde bu repoya tıklayıp clone'lamalısın. Klonlama tamamlandıktan sonra terminalinde sırasıyla şu komutları çalıştırarak başlatabilirsin.
 
